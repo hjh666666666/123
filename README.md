@@ -1,2 +1,5 @@
-# 123
-123
+# python 练习代码仓库
+## numpy
+## pandas
+## sk-learn
+
